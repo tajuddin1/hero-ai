@@ -1,0 +1,20 @@
+.menu li a:hover{
+  background-color: none !important;
+}
+.menu a.active{
+  background: var(--color-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.menu a.active::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background: var(--color-gradient);
+}

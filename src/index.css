@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: winter --default, light;
+}
+
+:root {
+  --color-primary: #632ee3;
+  --color-secondary: #9f62f2;
+  --color-gradient: linear-gradient(115deg, var(--color-primary), var(--color-secondary));
+  --text-base: 1rem;
+  --root-font-size: 16px;
+  --font-inter: "Inter", sans-serif;
+  --font-brgr:font-family: "Bricolage Grotesque", sans-serif;
+  --default-font-family: var(--font-inter);
+  --fontsize: 1rem;
+  --color-base-content : var(--color-black);
+  --color-success:#00D390 ;
+  --color-warning: #FF8811;
+  --color-success-content: var(--color-white);
+}
+
+body{
+  background-color: #f5f5f5;
+  font-size: 1rem !important;
+}
+
+.g-text-primary {
+  background: var(--color-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}

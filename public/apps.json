@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://placehold.co/300x300/png?text=BeatFlow+Music",
+    "title": "BeatFlow Music",
+    "companyName": "NovaSoft",
+    "id": 1,
+    "description": "Stream millions of songs and create playlists with offline support.",
+    "size": 85,
+    "reviews": 12450,
+    "ratingAvg": 4.7,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 8270 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=SnapEdit+Pro",
+    "title": "SnapEdit Pro",
+    "companyName": "PixelCraft",
+    "id": 2,
+    "description": "AI-powered photo editing app with filters and background remover.",
+    "size": 120,
+    "reviews": 9820,
+    "ratingAvg": 4.5,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 870 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=QuickChat",
+    "title": "QuickChat",
+    "companyName": "Connectify",
+    "id": 3,
+    "description": "Secure messaging with voice calls and encrypted chats.",
+    "size": 60,
+    "reviews": 20400,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 15270 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=FitTrack",
+    "title": "FitTrack",
+    "companyName": "HealthSync",
+    "id": 4,
+    "description": "Track workouts, calories, and fitness goals easily.",
+    "size": 95,
+    "reviews": 8750,
+    "ratingAvg": 4.4,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=SkyWeather",
+    "title": "SkyWeather",
+    "companyName": "CloudTech",
+    "id": 5,
+    "description": "Live weather forecasts with radar and storm alerts.",
+    "size": 45,
+    "reviews": 6200,
+    "ratingAvg": 4.3,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=MoneyMate",
+    "title": "MoneyMate",
+    "companyName": "FinEdge",
+    "id": 6,
+    "description": "Manage expenses, savings, and investments in one app.",
+    "size": 70,
+    "reviews": 5400,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 2830 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=CinePlay",
+    "title": "CinePlay",
+    "companyName": "VisionApps",
+    "id": 7,
+    "description": "Watch HD videos with subtitle support and smart recommendations.",
+    "size": 110,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 8910 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=Learnify",
+    "title": "Learnify",
+    "companyName": "EduCore",
+    "id": 8,
+    "description": "Interactive courses for coding, design, and business skills.",
+    "size": 140,
+    "reviews": 11200,
+    "ratingAvg": 4.8,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 7900 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=GoMaps",
+    "title": "GoMaps",
+    "companyName": "RouteLabs",
+    "id": 9,
+    "description": "Navigation app with offline maps and traffic updates.",
+    "size": 75,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 5280 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=Battle+Arena+X",
+    "title": "Battle Arena X",
+    "companyName": "GameVerse",
+    "id": 10,
+    "description": "Multiplayer battle game with tournaments and missions.",
+    "size": 250,
+    "reviews": 32100,
+    "ratingAvg": 4.9,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 28200 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=FoodExpress",
+    "title": "FoodExpress",
+    "companyName": "QuickBite",
+    "id": 11,
+    "description": "Order food online from nearby restaurants quickly.",
+    "size": 90,
+    "reviews": 15400,
+    "ratingAvg": 4.4,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 9050 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=TravelBuddy",
+    "title": "TravelBuddy",
+    "companyName": "WanderTech",
+    "id": 12,
+    "description": "Book hotels, flights, and tours with ease.",
+    "size": 130,
+    "reviews": 7600,
+    "ratingAvg": 4.6,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 4480 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=NoteMaster",
+    "title": "NoteMaster",
+    "companyName": "TaskFlow",
+    "id": 13,
+    "description": "Smart notes and task manager for productivity.",
+    "size": 55,
+    "reviews": 6900,
+    "ratingAvg": 4.5,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 670 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3780 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=SafeVault",
+    "title": "SafeVault",
+    "companyName": "SecureNet",
+    "id": 14,
+    "description": "Protect your files and passwords with advanced encryption.",
+    "size": 80,
+    "reviews": 5300,
+    "ratingAvg": 4.7,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 430 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=BookNest",
+    "title": "BookNest",
+    "companyName": "Readify",
+    "id": 15,
+    "description": "Read and organize your favorite ebooks anytime.",
+    "size": 65,
+    "reviews": 4700,
+    "ratingAvg": 4.4,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 510 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2540 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=Studio+Beats",
+    "title": "Studio Beats",
+    "companyName": "SoundLab",
+    "id": 16,
+    "description": "Create beats and record music professionally.",
+    "size": 170,
+    "reviews": 8800,
+    "ratingAvg": 4.8,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 6220 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=ShopEasy",
+    "title": "ShopEasy",
+    "companyName": "BuyNow",
+    "id": 17,
+    "description": "Online shopping app with fast checkout and deals.",
+    "size": 100,
+    "reviews": 18200,
+    "ratingAvg": 4.5,
+    "downloads": 9200000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 11580 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=Event+Planner",
+    "title": "Event Planner",
+    "companyName": "TimeWorks",
+    "id": 18,
+    "description": "Organize schedules, meetings, and reminders efficiently.",
+    "size": 58,
+    "reviews": 4100,
+    "ratingAvg": 4.3,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=RideNow",
+    "title": "RideNow",
+    "companyName": "UrbanDrive",
+    "id": 19,
+    "description": "Book rides and rent cars instantly from your phone.",
+    "size": 88,
+    "reviews": 9900,
+    "ratingAvg": 4.6,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 760 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 6160 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/300x300/png?text=DailyNews",
+    "title": "DailyNews",
+    "companyName": "MediaHub",
+    "id": 20,
+    "description": "Get breaking news and trending stories worldwide.",
+    "size": 50,
+    "reviews": 7200,
+    "ratingAvg": 4.4,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 3910 }
+    ]
+  }
+]
