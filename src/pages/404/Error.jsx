@@ -6,6 +6,7 @@ const Error = () => {
 
   return (
     <div className='py-10'>
+      <title>Error 404 - Page not Found</title>
       <div className="flex justify-center">
         <img src={error404} alt="" />
       </div>

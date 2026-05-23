@@ -46,6 +46,7 @@ const InstalledApps = () => {
 
   return (
     <div className="mx-auto max-w-360 py-20">
+      <title>Installed Apps - HeroAI</title>
       <div className="text-center">
         <h1 className="text-5xl font-bold mb-4">Your Installed Apps</h1>
         <p className="text-lg text-[#627382] mb-10 font-light">

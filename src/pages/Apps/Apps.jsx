@@ -5,6 +5,7 @@ const Apps = () => {
   const apps = useLoaderData();
   return (
     <div>
+      <title>Apps - HeroAI</title>
       <div className="py-20 max-w-360 mx-auto">
         <div className="text-center">
           <h1 className="text-5xl font-bold mb-4">Our All Applications</h1>
